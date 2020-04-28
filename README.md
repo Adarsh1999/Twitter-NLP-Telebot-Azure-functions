@@ -1,8 +1,6 @@
 # Twitter-NLP-Telebot-Azure-functions
 🎉This repo just contains the code but further setup of the project as to be done by yourself which is little lengthy.
 
-### Presentation link : https://bit.ly/2W3dMVx​
-
 # Steps to Follow during the project:
 
 ###  While dealing with Azure Functions
