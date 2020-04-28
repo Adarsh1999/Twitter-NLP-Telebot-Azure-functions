@@ -1,0 +1,5 @@
+azure-functions
+tweepy
+requests
+textblob
+yake
